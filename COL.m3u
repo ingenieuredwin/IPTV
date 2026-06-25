@@ -303,3 +303,24 @@ http://181.78.8.199:8000/play/a0de/index.m3u8
 http://181.78.8.199:8000/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe",Telecaribe
 http://181.78.8.199:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Signature",HBO Signature - Peru
+http://190.108.93.180:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Mundi",HBO Mundi - Peru
+http://190.108.93.180:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Mundi",HBO Mundi - Peru
+http://190.108.93.180:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.co" tvg-name="World Discovery",World Discovery - Peru
+http://190.108.93.180:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="World.co" tvg-name="Theater Discovery",Theater Discovery - Peru
+http://190.108.93.180:8000/play/a039/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Telemundo.co" tvg-name="Telemundo.co",Telemundo - Peru
+http://190.108.93.180:8000/play/a01z/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Playboy.co" tvg-name="Playboy.co",Playboy - Peru
+http://190.108.93.180:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="POPU.co" tvg-name="POPU.co",POPU - Peru
+http://190.108.93.180:8000/play/a02u/index.m3u8
+
