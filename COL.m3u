@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-co.xml"
-#EXTINF:-1 tvg-id="A&amp;EMundo.co" tvg-name="", AE
+#EXTINF:-1 tvg-id="A&amp;EMundo.co" tvg-name="AE", AE
 http://181.78.8.199:8000/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-name="", AE
+#EXTINF:-1 tvg-id="A&amp;EMundo.co" tvg-name="AE", AE
 http://181.78.8.199:8000/play/a0ct/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-name="Animal Planet", Animal Planet
 http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:-1,ANTV
 http://181.78.8.199:8000/play/a0fo/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-id=""AXN.co"" tvg-name="AXN", AXN
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1,AXN
 http://181.78.8.199:8000/play/a0am/index.m3u8
