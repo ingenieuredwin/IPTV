@@ -7,7 +7,7 @@ http://181.78.8.199:8000/play/a0ct/index.m3u8
 http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:-1,ANTV
 http://181.78.8.199:8000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-id=""AXN.co"" tvg-name="AXN", AXN
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN", AXN
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1,AXN
 http://181.78.8.199:8000/play/a0am/index.m3u8
