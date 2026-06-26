@@ -151,24 +151,24 @@ http://181.78.8.199:8000/play/a0b3/index.m3u8
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.78.8.199:8000/play/a0bu/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.78.8.199:8000/play/a0bv/index.m3u8
 #EXTINF:-1,ESPN 5 HD
 http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.78.8.199:8000/play/a0bw/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.78.8.199:8000/play/a0bx/index.m3u8
 #EXTINF:-1,ESPN 7 HD
 http://181.78.8.199:8000/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="ESPNExtra.co" tvg-name="ESPN Extra",ESPN Extra
 http://181.78.8.199:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN",ESPN HD
 http://181.78.8.199:8000/play/a08y/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.78.8.199:8000/play/a0bu/index.m3u8
-#EXTINF:-1,ESPN 5
-http://181.78.8.199:8000/play/a0bv/index.m3u8
-#EXTINF:-1,ESPN 6
-http://181.78.8.199:8000/play/a0bw/index.m3u8
-#EXTINF:-1,ESPN 7
-http://181.78.8.199:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.co" tvg-name="EWTN",EWTN
 http://181.78.8.199:8000/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="Entretenimiento.co",Entretenimiento
