@@ -313,7 +313,6 @@ http://190.108.93.180:8000/play/a01q/index.m3u8
 http://190.108.93.180:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="World.co" tvg-name="Theater Discovery",Theater Discovery - Peru
 http://190.108.93.180:8000/play/a039/index.m3u8
-
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO",HBO
 http://190.108.93.180:8000/play/a02Z/index.m3u8
 #EXTINF:-1 tvg-id="HBOPOP.co" tvg-name="HBO",HBO POP
@@ -322,7 +321,6 @@ http://190.108.93.180:8000/play/a03F/index.m3u8
 http://190.108.93.180:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-name="NationalGeographic",National Geographic
 http://190.108.93.180:8000/play/a03w/index.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo.pe" tvg-name="Telemundo",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo Fort",Telemundo Fort Laurdale
@@ -335,13 +333,10 @@ http://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 http://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="DTelemundo" tvg-name="Telemundo Noticias Ahora",Telemundo Noticias Ahora
 http://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="Telemundo.co",Telemundo - Peru
 http://190.108.93.180:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
 http://190.108.93.180:8000/play/a054/index.m3u8
-
 #EXTINF:-1 tvg-id="POPU.co" tvg-name="POPU.co",POPU - Peru
 http://190.108.93.180:8000/play/a02u/index.m3u8
 
