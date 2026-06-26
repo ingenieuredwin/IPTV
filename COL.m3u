@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-co.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-co.xml,https://iptv-epg.org/files/epg-pe.xml,https://iptv-epg.org/files/epg-us.xml"
 #EXTINF:-1 tvg-id="A&amp;EMundo.co" tvg-name="A&amp;E Mundo",AE
 http://181.78.8.199:8000/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="A&amp;EMundo.co" tvg-name="A&amp;E Mundo",AE
@@ -131,9 +131,9 @@ http://181.78.8.199:8000/play/a0c2/index.m3u8
 http://181.78.8.199:8000/play/a0c3/index.m3u8
 #EXTINF:-1,El Mundo del Campo
 http://181.78.8.199:8000/play/a0hb/index.m3u8
-#EXTINF:-1,Encoder de 8P
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WinSports", WinSport
 http://181.78.8.199:8000/play/a09s/index.m3u8
-#EXTINF:-1,Encoder de 8P 2
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WinSports", WinSport
 http://181.78.8.199:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.co" tvg-name="Enlace",Enlace
 http://181.78.8.199:8000/play/a0dq/index.m3u8
@@ -181,11 +181,11 @@ http://181.78.8.199:8000/play/a0ds/index.m3u8
 http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1,Golden Edge
 http://181.78.8.199:8000/play/a0ab/index.m3u8
-#EXTINF:-1,Globovisión
+#EXTINF:-1 tvg-id="Globovision.co" tvg-name="Globovision", Globovision
 http://181.78.8.199:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="Golden.co" tvg-name="Golden",Golden
 http://181.78.8.199:8000/play/a0cj/index.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 tvg-id="Golden.co" tvg-name="Golden",Golden
 http://181.78.8.199:8000/play/a0ck/index.m3u8
 #EXTINF:-1 tvg-id="History.co" tvg-name="History",History
 http://181.78.8.199:8000/play/a0an/index.m3u8
@@ -245,7 +245,7 @@ http://181.78.8.199:8000/play/a0aj/index.m3u8
 http://181.78.8.199:8000/play/a0af/index.m3u8
 #EXTINF:-1,Pánico
 http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="ParamountNetwork.co" tvg-name="ParamountNetwork", Paramount HD
 http://181.78.8.199:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN",RCN
 http://181.78.8.199:8000/play/a0hx/index.m3u8
@@ -320,7 +320,7 @@ http://190.108.93.180:8000/play/a01z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Playboy.co" tvg-name="Playboy.co",Playboy - Peru
-http://190.108.93.180:8000/play/a02i/index.m3u8
+http://190.108.93.180:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="POPU.co" tvg-name="POPU.co",POPU - Peru
 http://190.108.93.180:8000/play/a02u/index.m3u8
 
