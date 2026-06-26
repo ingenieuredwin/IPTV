@@ -335,19 +335,19 @@ http://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 http://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="Telemundo.co",Telemundo
 http://190.108.93.180:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="Univision.co" group-title="-",Univision HD
+#EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD",Univision HD
 http://45.166.93.156:9999/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="POPU.co" tvg-name="POPU.co",POPU
 http://190.108.93.180:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCinemaEsteHD.co" group-title="-",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-id="UniversalCinemaEsteHD.co" tvg-name="UNIVERSAL CINEMA ESTE HD",UNIVERSAL CINEMA ESTE HD
 http://45.166.93.156:9999/play/a0i9/index.m3u8
-#EXTINF:-1 tvg-id="UniversalComedyHD.co" group-title="-",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="UniversalComedyHD.co" tvg-name="UNIVERSAL COMEDY HD",UNIVERSAL COMEDY HD
 http://45.166.93.156:9999/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCrimeHD.co" group-title="-",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="UniversalCrimeHD.co" tvg-name="UNIVERSAL CRIME HD",UNIVERSAL CRIME HD
 http://45.166.93.156:9999/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiereHD.co" group-title="-",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-id="UniversalPremiereHD.co" tvg-name="UNIVERSAL PREMIERE HD",UNIVERSAL PREMIERE HD
 http://45.166.93.156:9999/play/a0er/index.m3u8
-#EXTINF:-1 tvg-id="UniversalRealityHD.co" group-title="-",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="UniversalRealityHD.co" tvg-name="UNIVERSAL REALITY HD",UNIVERSAL REALITY HD
 http://45.166.93.156:9999/play/a0et/index.m3u8
