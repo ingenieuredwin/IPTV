@@ -323,6 +323,20 @@ http://190.108.93.180:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-name="NationalGeographic",National Geographic
 http://190.108.93.180:8000/play/a03w/index.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo.pe" tvg-name="Telemundo",Telemundo
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo Fort",Telemundo Fort Laurdale
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo East",Telemundo East
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="DTelemundo" tvg-name="Telemundo Al Dia",Telemundo Al Dia
+http://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="DTelemundo" tvg-name="Telemundo Al Dia 2",Telemundo Al Dia 2
+http://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="DTelemundo" tvg-name="Telemundo Noticias Ahora",Telemundo Noticias Ahora
+http://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="Telemundo.co",Telemundo - Peru
 http://190.108.93.180:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
