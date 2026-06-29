@@ -61,10 +61,6 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol",Caracol TV
 http://181.78.8.199:8000/play/a0aw/index.m3u8
-#EXTINF:-1,Caracol y RCN Zapatoca
-http://181.78.8.199:8000/play/a0hy/index.m3u8
-#EXTINF:-1,Caracol Zapatoca
-http://181.78.8.199:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network",Cartoon Network
 http://181.78.8.199:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-name="Cartoonito",Cartoonito
@@ -179,7 +175,7 @@ http://181.78.8.199:8000/play/a0hu/index.m3u8
 http://181.78.8.199:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="Globovision.co",Globovisión
 http://181.78.8.199:8000/play/a09k/index.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 tvg-id="Golden.co", Golden
 http://181.78.8.199:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="Globovision.co" tvg-name="Globovision", Globovision
 http://181.78.8.199:8000/play/a0co/index.m3u8
