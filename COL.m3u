@@ -341,10 +341,6 @@ http://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 http://190.108.93.180:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD",Univision HD
 http://45.166.93.156:9999/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="bein SPORTS XTRA.pe" tvg-name="bein SPORTS XTR",bein SPORTS XTR
-http://201.77.60.62:8002/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="POPU.co" tvg-name="POPU.co",POPU
 http://190.108.93.180:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinemaEsteHD.co" tvg-name="UNIVERSAL CINEMA ESTE HD",UNIVERSAL CINEMA ESTE HD
@@ -357,3 +353,9 @@ http://45.166.93.156:9999/play/a0eu/index.m3u8
 http://45.166.93.156:9999/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="UniversalRealityHD.co" tvg-name="UNIVERSAL REALITY HD",UNIVERSAL REALITY HD
 http://45.166.93.156:9999/play/a0et/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
+http://190.108.93.180:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="DIRECTVSports",Direct TV Sport
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="bein SPORTS XTRA.pe" tvg-name="bein SPORTS XTR",bein SPORTS XTR
+http://201.77.60.62:8002/play/a0np/index.m3u8
