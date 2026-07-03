@@ -61,6 +61,8 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol",Caracol TV
 http://181.78.8.199:8000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol",Caracol TV Internacional
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network",Cartoon Network
 http://181.78.8.199:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-name="Cartoonito",Cartoonito
@@ -123,6 +125,8 @@ http://181.78.8.199:8000/play/a09a/index.m3u8
 http://181.78.8.199:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHome&amp;Health.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
 http://181.78.8.199:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHome&amp;Health.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
+http://45.166.93.156:9999/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids",Discovery Kids
 http://181.78.8.199:8000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="ElMundoDelCampo.co",El Mundo del Campo
@@ -193,7 +197,7 @@ http://181.78.8.199:8000/play/a0g0/index.m3u8
 http://181.78.8.199:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="History2.co" tvg-name="History 2",History 2
 http://181.78.8.199:8000/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.co" tvg-name="Investigation Discovery",Investigation Discovery HD
+#EXTINF:-1 tvg-id="Investigation.co" tvg-name="Investigation ",Investigation Discovery HD
 http://181.78.8.199:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional",Canal Institucional
 http://181.78.8.199:8000/play/a0db/index.m3u8
