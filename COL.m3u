@@ -63,6 +63,8 @@ http://181.78.8.199:8000/play/a08s/index.m3u8
 http://181.78.8.199:8000/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol",Caracol TV Internacional
 http://45.166.93.156:9999/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol",Caracol TV Panama
+http://38.134.250.110:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network",Cartoon Network
 http://181.78.8.199:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-name="Cartoonito",Cartoonito
