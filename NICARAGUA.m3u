@@ -1,5 +1,4 @@
-Astra Honduras :
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-co.xml,https://iptv-epg.org/files/epg-pe.xml,https://iptv-epg.org/files/epg-ni.xml,https://iptv-epg.org/files/epg-us.xml"
 #EXTINF:-1 group-title="A&E",A&E
 http://45.166.93.156:9999/play/a08b/index.m3u8
 #EXTINF:-1 group-title="A3CINE",A3CINE
