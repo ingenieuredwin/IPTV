@@ -125,15 +125,15 @@ http://181.224.200.5:2277/play/a0bj/index.m3u8
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
 
-#EXTINF:-1 tvg-id="DiscoveryHome&amp;Health.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health HD
+#EXTINF:-1 tvg-id="DiscoveryHomeampHealth.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health HD
 http://181.78.8.199:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery Channel",Discovery Channel HD
 http://181.78.8.199:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids",Discovery Kids HD
 http://181.78.8.199:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHome&amp;Health.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
+#EXTINF:-1 tvg-id="DiscoveryHomeampHealth.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
 http://181.78.8.199:8000/play/a0c2/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHome&amp;Health.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
+#EXTINF:-1 tvg-id="DiscoveryHomeampHealth.co" tvg-name="Discovery Home &amp; Health",Discovery Home & Health
 http://45.166.93.156:9999/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids",Discovery Kids
 http://181.78.8.199:8000/play/a0c3/index.m3u8
